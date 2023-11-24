@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
-const host = "http://localhost:5000";
+import host from '../Context/task/config';
 
 const Login = (props) => {
     let navigate = useNavigate();
