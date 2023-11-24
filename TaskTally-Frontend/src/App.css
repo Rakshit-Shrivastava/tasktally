@@ -1,0 +1,18 @@
+#alert{
+  height: 70px;
+}
+
+i{
+  cursor: pointer;
+}
+
+.about_icon{
+  height: 200px;
+  aspect-ratio: 1;
+  margin: 5px;
+}
+
+.about_desc p {
+  text-align: justify;
+  padding: 5px;
+}
